@@ -1,0 +1,4 @@
+# CodeInginer Docker Images git ignore file
+
+# IDEs Editors
+\.idea/
